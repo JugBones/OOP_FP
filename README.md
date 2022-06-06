@@ -9,7 +9,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Netbeans" width="40px" height="32px" src="https://download.logo.wine/logo/NetBeans/NetBeans-Logo.wine.png" />
+<img align="left" alt="Netbeans" width="47px" height="32px" src="https://download.logo.wine/logo/NetBeans/NetBeans-Logo.wine.png" />
 <img align="left" alt="GitHub" width="26px" 
 src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="Java" width="32px" height="29px"
