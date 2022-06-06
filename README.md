@@ -9,10 +9,10 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Netbeans" width="26px" src=["https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Netbeans" width="26px" src="https://download.logo.wine/logo/NetBeans/NetBeans-Logo.wine.png" />
 <img align="left" alt="GitHub" width="26px" 
 src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
 <img align="left" alt="Java" width="30px" height="26px"
-src=["https://image.pngaaa.com/282/619282-middle.png" />
+src= "https://image.pngaaa.com/282/619282-middle.png" />
 
 [website]: https://github.com/JugBones
