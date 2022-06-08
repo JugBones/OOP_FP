@@ -4,8 +4,8 @@
 ### You can check my Final Project description files here!
 
 - 🎥 My demo video : Video demo.mp4
-- 🛠 My source code folder : pkgoopfp - src/pkgoopfp
-- 📃 My report file : 
+- 🛠 My source code folder : pkgoopfp -> src/pkgoopfp
+- 📃 My report file : OOP - Fnal Project Report.pdf
 
 
 ### Languages and Tools:
